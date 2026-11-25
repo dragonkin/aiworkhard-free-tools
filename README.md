@@ -1,5 +1,7 @@
 # 免费工具大全
 
+<p align="center">**[中文](README.md) · [English](README.en.md)**</p>
+
 > 免费开源工具精选 · 资料整理自 **AI很忙**。
 > 完整清单（全部分类）见主仓库：[aiworkhard-free-resources](https://github.com/dragonkin/aiworkhard-free-resources)
 > 主站：**[AI很忙](https://www.aiworkhard.com/)** · 本仓收录 **29** 条
