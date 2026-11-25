@@ -2,10 +2,11 @@
 
 >  · curated by **AI很忙 (AI Hustle)**.
 > Full multi-category list: [aiworkhard-free-resources](https://github.com/dragonkin/aiworkhard-free-resources)
-> Live site: **[AI很忙](https://www.aiworkhard.com/)** · **29** entries
+> Live site: **[AI很忙](https://www.aiworkhard.com/)** · **30** entries
 
-### Free (29)
+### Free (30)
 
+- [开源直播数字人盘点：LiveTalking / OpenTalking / MuseTalk / Open-LLM-VTuber / Linly-Talker（免费开播）](https://www.aiworkhard.com/a/163) `已核实 · 开源免费` — 盘点能直接拿来免费开播的开源直播数字人方案（按成熟度排序）：首选 LiveTalking（实时流式数字人，四模型+WebRTC/RTMP 推流，带 24h 无人直播方案）；要长期做…
 - [Claude Brain：给 Claude Code 加持久记忆，单文件存记忆、能进 Git](https://www.aiworkhard.com/a/159) `已核实 · 永久免费` — Claude Code 的持久记忆插件：会话上下文、决策、踩过的 Bug 自动捕获存档，新会话开始时自动注入；可搜索、可提问（/mind 命令或可选的命令行工具）。
 - [desigma：开源本地设计软件，免费离线，能直接打开 Figma 的 .fig 文件](https://www.aiworkhard.com/a/158) `已核实 · 永久免费` — 纯 Rust 的本地优先设计工具：免费、离线、无账号，可直接导入 Figma 的 JSON 或本地 .fig 文件，保留组件、实例覆盖、样式与原型链接。
 - [Mimi：开源实时翻译字幕工具，系统声音转悬浮字幕，中英双语](https://www.aiworkhard.com/a/157) `已核实 · 永久免费` — Tauri/Rust 桌面应用：把电脑播放的声音或麦克风声音实时转成悬浮翻译字幕，双语、仅译文、仅原文三种显示，字幕可点击穿透不挡操作。
