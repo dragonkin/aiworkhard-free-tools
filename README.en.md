@@ -1,10 +1,10 @@
-# Free
+# Free Tools
 
->  · curated by **AI很忙 (AI Hustle)**.
+> Free open-source tools · curated by **AI很忙 (AI Hustle)**.
 > Full multi-category list: [aiworkhard-free-resources](https://github.com/dragonkin/aiworkhard-free-resources)
 > Live site: **[AI很忙](https://www.aiworkhard.com/)** · **23** entries
 
-### Free (23)
+### Free Tools (23)
 
 - [Cloudflare Email Sending 进免费套餐：Workers 免搭服务器直发邮件（Beta，仅已验邮箱）＋免费发信方案对比](https://www.aiworkhard.com/a/164) `已核实 · 免费（Beta）` — Cloudflare 于 2026-11-24 把 Email Sending（Beta）纳入 Workers 免费计划：可通过 Workers binding / REST AP…
 - [开源直播数字人盘点：LiveTalking / OpenTalking / MuseTalk / Open-LLM-VTuber / Linly-Talker（免费开播）](https://www.aiworkhard.com/a/163) `已核实 · 开源免费` — 盘点能直接拿来免费开播的开源直播数字人方案（按成熟度排序）：首选 LiveTalking（实时流式数字人，四模型+WebRTC/RTMP 推流，带 24h 无人直播方案）；要长期做…
